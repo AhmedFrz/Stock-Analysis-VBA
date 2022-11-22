@@ -1,4 +1,5 @@
 # Stock-Analysis-VBA
+Used VBA to compare, analyze stocks, and generate insights to convince investors  
 
 ## Overview
 
